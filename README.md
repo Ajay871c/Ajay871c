@@ -1,9 +1,8 @@
 ## Hi there 👋 I am Ajay...
----
+
 # 💫 About Me:
 freelancer & physicist, Web-developer.
 
----
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaykumarmohapatra871c@gmail.com) 
